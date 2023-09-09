@@ -14,11 +14,7 @@ Por favor, mantente atento a futuras actualizaciones y anuncios sobre el progres
 
 ## Descripción
 
-OnionCrafter.Util.Logger es una biblioteca diseñada para simplificar la gestión de respuestas y datos de respuesta en proyectos que siguen la arquitectura Onion. Esta biblioteca proporciona componentes flexibles y versátiles para ayudarte a manejar respuestas estructuradas, gestionar estados de éxito y errores, y personalizar mensajes de respuesta, todo ello en el contexto de proyectos .NET 7.
-
 ## Características
-
-- .
 
 ## Requisitos
 
