@@ -28,7 +28,7 @@ Puedes agregar esta librería a tu proyecto .NET 7 a través de NuGet. Usa el si
 dotnet add package OnionCrafter.Util.Logger
 ```
 
-## Usoclases
+## Uso
 
 Para comenzar a utilizar OnionCrafter.Util.Logger en tu proyecto:
 
