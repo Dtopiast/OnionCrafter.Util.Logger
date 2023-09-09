@@ -1,10 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
 	  <Description>Provides lightweight extensions and interfaces for effective logging in .NET applications.</Description>
 	  <VersionPrefix>1.0.0</VersionPrefix>
 	  <RepositoryUrl>https://github.com/Dtopiast/OnionCrafter.Util.Logger</RepositoryUrl>
-	  <PackageTags></PackageTags>
+	  <PackageTags>
+		  logging-extensions, logging-interface, .net-logging, log-levels, log-messages
+	  </PackageTags>
 
 	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
 	  <IncludeSymbols>True</IncludeSymbols>
@@ -37,5 +39,9 @@
 			<Pack>True</Pack>
 			<PackagePath>\</PackagePath>
 		</None>
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.1" />
+	  <PackageReference Include="OnionCrafter.Utils.Exception" Version="1.0.3" />
 	</ItemGroup>
 </Project>

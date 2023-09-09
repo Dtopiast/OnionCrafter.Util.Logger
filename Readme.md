@@ -14,11 +14,18 @@ Por favor, mantente atento a futuras actualizaciones y anuncios sobre el progres
 
 ## Descripción
 
+**OnionCrafter.Util.Logger** es una librería de utilidades para la gestión de registros (logging) en aplicaciones .NET. Esta librería ofrece una serie de características y extensiones que facilitan la implementación de la funcionalidad de registro en tu proyecto.
+
 ## Características
+- Proporciona extensiones y interfaces útiles para la gestión de registros.
+- Admite varios niveles de registro para adaptarse a tus necesidades.
+- Facilita la configuración y personalización de mensajes de registro.
+- Ayuda a mantener un registro eficiente y organizado en tu aplicación .NET.
 
 ## Requisitos
 
 - .NET 7
+- Microsoft.Logging.Extensions
 
 ## Instalación
 
